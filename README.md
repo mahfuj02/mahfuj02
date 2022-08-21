@@ -3,12 +3,11 @@
 - 🌱 I’m currently learning **Django, and React Native**
 - 👯 I’m looking to collaborate on **Python based open source projects**
 
-- 💬 Ask me about **
-, Python, Django, and OOP**
+- 💬 Ask me about Python, C++, Django, and OOP
 
-- 📫 How to reach me **ahmed.mahfuj02@gmail.com**
+- 📫Reach me: **ahmed.mahfuj02@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1D1hH1ODamp12xLjllV1_uh1VuVSQ6DPk/view?usp=sharing](https://drive.google.com/file/d/1D1hH1ODamp12xLjllV1_uh1VuVSQ6DPk/view?usp=sharing)
+- 📄 My resume: [https://drive.google.com/file/d/1D1hH1ODamp12xLjllV1_uh1VuVSQ6DPk/view?usp=sharing](https://drive.google.com/file/d/1D1hH1ODamp12xLjllV1_uh1VuVSQ6DPk/view?usp=sharing)
 
 <h3 align="left">Social Media:</h3>
 <p align="left">
