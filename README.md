@@ -7,7 +7,7 @@
 
 - 📫Reach me: **ahmed.mahfuj02@gmail.com**
 
-- 📄 My resume: https://bit.ly/mahfuj-resume](https://drive.google.com/file/d/1D1hH1ODamp12xLjllV1_uh1VuVSQ6DPk/view?usp=sharing)
+- 📄 My resume: [https://bit.ly/mahfuj-resume]
 
 <h3 align="left">Social Media:</h3>
 <p align="left">
