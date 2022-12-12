@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm a software Engineer working in Sylhet, Bangladesh</h1>
 
-- 🌱 I’m currently learning **Django, and React Native**
+- 🌱 I’m currently learning **Django, and React JS**
 - 👯 I’m looking to collaborate on **Python based open source projects**
 
 - 💬 Ask me about Python, C++, Django, and OOP
