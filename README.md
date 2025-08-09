@@ -1,7 +1,7 @@
 # Hi 👋, I'm Mahfuj Ahmed - Full Stack Developer
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=4EC9B0&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Mobile+App+Developer;Problem+Solving+Enthusiast;Contest+Champion;1000%2B+Problems+Solved" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=4EC9B0&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Mobile+App+Developer;Problem+Solving+Enthusiast;" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
