@@ -134,7 +134,7 @@ Game discovery app with filtering, search and smooth client-side caching.
 
 ### 💼 Experience
 
-**Junior Software Engineer** · LIILAB · *Mar 2021 – Sep 2022*
+**Junior Software Engineer** · LIILAB · *Feb 2021 – May 2023*
 - **Team lead**, acting as the bridge between the **backend** and **WordPress** teams — aligning requirements, APIs and delivery across both
 - Built Django REST APIs for data synchronization on a high-traffic e-commerce platform
 - Optimized database queries; took part in schema design, code reviews and UX research
